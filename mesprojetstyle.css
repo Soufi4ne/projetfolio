@@ -45,6 +45,13 @@ header {
     box-sizing: border-box;
   }
   
+  a {
+    text-decoration: none;
+    all: unset;
+
+
+  }
+  
   body {
     background-color: #f1f1f1;
     font-family: Arial;
