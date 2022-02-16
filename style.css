@@ -249,6 +249,16 @@ label {
     color: #777;
 }
 
+
+input[type="message"] {
+    padding:10px;
+    font-size: 20px;
+    margin-right: 20px;
+    border: 2px solid #ddd;
+    border-radius: 3px;
+}
+
+
 input[type="text"] {
     padding:10px;
     font-size: 20px;
